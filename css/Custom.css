@@ -23,7 +23,7 @@ footer{
 }
 .jumbotron {
   text-align: center;
-  background-image: url('../images/hero_image.jpg');
+  background-image: url("images/hero_image.jpg");
   color: white;
 }
 
@@ -129,5 +129,5 @@ footer{
   footer img {
     width: 80%;
   }
-  
+
 }
